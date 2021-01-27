@@ -16,7 +16,7 @@
   "jest": {
     "preset": "react-native"
   },
-  "private": true,
+"private": true,
   "scripts": {
     "android": "react-native run-android",
     "clear": "react-native start --reset-cache",
